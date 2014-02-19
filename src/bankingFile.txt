@@ -1,0 +1,49 @@
+First Cyber Bank
+Johnny
+Quest
+19391
+07/04/1913
+101 Barfield Lane Indianapolis, IN 46218
+336-333-3333
+9011
+1
+checking
+1000-13056
+2650.0
+2
+credit
+01/10/2014
+2500.0
+Initial deposit
+debit
+02/02/2014
+150.0
+misc debit
+Bradly
+Davis
+19393
+09/14/1953
+155 North Street, Greensboro, NC 27405
+336-322-3131
+9515
+2
+checking
+1000-13057
+500.5
+2
+credit
+01/12/2014
+450.0
+Initial deposit
+debit
+02/01/2014
+50.5
+misc debit
+savings
+2000-00001
+10000.0
+1
+credit
+02/05/2014
+10000.0
+Initial deposit
